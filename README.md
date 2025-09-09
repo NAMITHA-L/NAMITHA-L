@@ -66,13 +66,9 @@
 - 🎧 Music = my ultimate **focus booster**  
 - 🎮 Love to explore quirky AI tools + side projects  
 
-   .--.   .--.    Namitha.codes();
-  |o_o | | :)|    while(learning) { evolve(); }
-  |:_/ | |:_/     
- //   \ \      
-(|     | )     
-/'\_   _/`\    
-\___)=(___/
+Namitha.codes();
+while(learning) { evolve(); }
+ 
 🌐 Let’s Connect!
 <p align="center"> <a href="https://linkedin.com/in/namitha-l-29819128a"><img src="https://img.shields.io/badge/-Namitha%20L-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a> <a href="https://github.com/NAMITHA-L"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="mailto:leninamitha@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.instagram.com/namitha_0405/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> </p>
 ⭐ From Namitha L
