@@ -1,9 +1,8 @@
 <h1 align="center">Hi, I'm Namitha L 👋</h1>
 <h3 align="center">Frontend & Full-Stack Developer | AI Explorer | Lifelong Learner</h3>
 
-<p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=NAMITHA-L&color=blue)
-</p>
+| ![Profile Views](https://komarev.com/ghpvc/?username=NAMITHA-L&color=blue) |
+|:---:|
 
 ---
 
@@ -55,7 +54,6 @@
 
 ### 📊 GitHub Stats & Fun Animation
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NAMITHA-L&show_icons=true&theme=radical" height="160em"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NAMITHA-L&theme=radical" height="160em"/>
 </p>
 
