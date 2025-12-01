@@ -1,74 +1,84 @@
-<h1 align="center">👋 Hey, I'm Namitha L</h1>
-<h3 align="center">🚀 AI Explorer | Full-Stack Developer | Lifelong Learner</h3>
+<h1 align="center">Hi, I'm Namitha L 👋</h1>
+<h3 align="center">Frontend & Full-Stack Developer | AI Explorer | Lifelong Learner</h3>
 
 ---
 
-### 🔑 About Me  
-🎓 B.Tech Computer Science Engineering @ **VIT Bhopal University** (CGPA: 9.18)  
-💡 Exploring **LLMs, Prompt Engineering, Generative AI, Scalable Web Apps, Frontend Frameworks**  
+### 🔑 About Me
+🎓 B.Tech in Computer Science @ **VIT Bhopal** (CGPA: 9.18)  
+💡 Passionate about **AI, Frontend Development, Figma-to-Code, Scalable Web Apps**  
 🌱 Motto: *"Keep learning, keep evolving"*  
 
 ---
 
-### 🚀 Projects & Work  
+### 🚀 Featured Projects
 
-💡 **STU-END (Solo Project)** – AI-powered study planner with captivating UI/UX  
-🔗 [Repo](https://github.com/NAMITHA-L/STU-END)  
+- 💻 **Restaurant Website** – Multi-page, responsive design with menu, reviews, and order form  
+🔗 [Live Demo](https://namitha-restaurant.netlify.app) | [Repo](https://github.com/NAMITHA-L/Restaurant-Website)
 
-🛡️ **SentryWallet (Hackathon Project)** – Smart crypto wallet with nominee-based inheritance  
-🔗 [Repo](https://github.com/NAMITHA-L/SentryWallet)  
+- 📚 **Smart Study Assistant** – Upload files, get summaries, definitions, MCQs, and Q&A instantly  
+🔗 [Live Demo](https://namitha-study-assistant.netlify.app) | [Repo](https://github.com/NAMITHA-L/Smart-study-assistant-)
 
-🎬 **Gender Bias Analyzer (LLM Project)** – Mistral-based tool analyzing/reducing bias in movie plots  
-🔗 [Repo](https://github.com/NAMITHA-L/GENDER-BIAS-ANALYSIS---COMPARISON-OF-AI-MODELS)  
+- 🐍 **Learn Flask** – Projects while learning Flask step-by-step from tutorials  
+🔗 [Repo](https://github.com/NAMITHA-L/Flask-learning)
 
-🤝 **Mentor-Mentee Dashboard** – Task scheduling & mentor matching with React + Tailwind  
-🔗 [Repo](https://github.com/NAMITHA-L/MENTOR)  
+- 🌟 Previous Highlights:  
+  - **STU-END** – AI-powered study planner with intuitive UI/UX  
+  - **SentryWallet** – Hackathon project: smart crypto wallet with nominee inheritance  
+  - **Mentor-Mentee Dashboard** – React + Tailwind task scheduling and matching
 
 ---
 
-### 🛠️ Tech Stack  
+### 🛠 Tech Stack
 
-💻 **Languages**  
+**Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-⚡ **Frameworks & Tools**  
+**Frameworks & Tools**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 
-☁ **Databases & Cloud**  
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+**Databases & Cloud**  
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ---
 
-### 📊 GitHub Analytics  
+### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=NAMITHA-L&show_icons=true&theme=radical" height="180em"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NAMITHA-L&theme=radical" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=NAMITHA-L&show_icons=true&theme=radical" height="160em"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NAMITHA-L&theme=radical" height="160em"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAMITHA-L&layout=compact&theme=radical" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAMITHA-L&layout=compact&theme=radical" height="150em"/>
 </p>
 
+---
 
+### 🌟 Fun & Personal
+- Designing **UI/UX** projects keeps me motivated  
+- Music = ultimate focus booster  
+- Exploring quirky AI projects + side experiments  
 
-### 🎵 Fun & Personal  
-- ✨ Designing captivating **UI/UX** keeps me motivated  
-- 🎧 Music = my ultimate **focus booster**  
-- 🎮 Love to explore quirky AI tools + side projects  
+---
 
-Namitha.codes();
+### 🌐 Let’s Connect
+
+<p align="center">
+<a href="https://linkedin.com/in/namitha-l-29819128a"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/NAMITHA-L"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:leninamitha@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/namitha_0405/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+---
+
+Namitha.codes();  
 while(learning) { evolve(); }
- 
-🌐 Let’s Connect!
-<p align="center"> <a href="https://linkedin.com/in/namitha-l-29819128a"><img src="https://img.shields.io/badge/-Namitha%20L-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a> <a href="https://github.com/NAMITHA-L"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="mailto:leninamitha@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.instagram.com/namitha_0405/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> </p>
-⭐ From Namitha L
