@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Namitha L 👋</h1>
 <h3 align="center">Frontend & Full-Stack Developer | AI Explorer | Lifelong Learner</h3>
 
+<p align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=NAMITHA-L&color=blue)
+</p>
+
 ---
 
 ### 🔑 About Me
@@ -49,15 +53,18 @@
 
 ---
 
-### 📊 GitHub Stats
-
+### 📊 GitHub Stats & Fun Animation
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=NAMITHA-L&show_icons=true&theme=radical" height="160em"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NAMITHA-L&theme=radical" height="160em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NAMITHA-L&show_icons=true&theme=radical" height="160em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NAMITHA-L&theme=radical" height="160em"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAMITHA-L&layout=compact&theme=radical" height="150em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAMITHA-L&layout=compact&theme=radical" height="150em"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&width=500&lines=Building+Innovative+Web+Apps;Exploring+AI+and+Frontend+Design;Learning+Every+Day" alt="Typing animation">
 </p>
 
 ---
@@ -65,7 +72,7 @@
 ### 🌟 Fun & Personal
 - Designing **UI/UX** projects keeps me motivated  
 - Music = ultimate focus booster  
-- Exploring quirky AI projects + side experiments  
+- Exploring quirky AI tools + side experiments  
 
 ---
 
