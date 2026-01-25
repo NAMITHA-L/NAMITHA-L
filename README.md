@@ -7,7 +7,7 @@
 ---
 
 ### 🔑 About Me
-🎓 B.Tech in Computer Science @ **VIT Bhopal** (CGPA: 9.18)  
+🎓 B.Tech in Computer Science @ **VIT Bhopal** (CGPA: 9.25)  
 💡 Passionate about **AI, Frontend Development, Figma-to-Code, Scalable Web Apps**  
 🌱 Motto: *"Keep learning, keep evolving"*  
 
@@ -53,9 +53,7 @@
 ---
 
 ### 📊 GitHub Stats & Fun Animation
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NAMITHA-L&theme=radical" height="160em"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAMITHA-L&layout=compact&theme=radical" height="150em"/>
