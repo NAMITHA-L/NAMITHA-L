@@ -7,7 +7,7 @@
 ---
 
 ### 🔑 About Me
-🎓 B.Tech in Computer Science @ **VIT Bhopal** (CGPA: 9.25)  
+🎓 B.Tech in Computer Science @ **VIT Bhopal** (CGPA: 9.28)  
 💡 Passionate about **AI, Frontend Development, Figma-to-Code, Scalable Web Apps**  
 🌱 Motto: *"Keep learning, keep evolving"*  
 
