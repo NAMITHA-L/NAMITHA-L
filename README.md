@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Namitha L 👋</h1>
-<h3 align="center">Frontend & Full-Stack Developer | AI Explorer | Lifelong Learner</h3>
+<h3 align="center"> Full-Stack Developer | AI Explorer | Lifelong Learner</h3>
 
 | ![Profile Views](https://komarev.com/ghpvc/?username=NAMITHA-L&color=blue) |
 |:---:|
